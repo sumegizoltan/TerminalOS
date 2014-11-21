@@ -1,8 +1,5 @@
 /* 
  * Terminal-OS
- * Author: Zoltan Sumegi - http://www.sumegi.net
- * Design: Vanessza Sumegi
- * 
  * Function.createDelegate() from .NET Framework 4 - http://msdn.microsoft.com
  */
 
